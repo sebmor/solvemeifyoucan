@@ -13,4 +13,4 @@ On page load (refreshing the page):
 **For this challenge you are not allowed to use any external libraries.**
 
 > Focus on a clean, scaleable solution. The quality of your code is as important as the solution.
-> This challenge should take you no longer than 1 hour, otherwise it's unlikely this position is for you.
+> This challenge should take you no longer than 1-2 hours, otherwise it's unlikely this position is for you.
