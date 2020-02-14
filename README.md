@@ -7,7 +7,7 @@ Make it so that:
 * Route /spa is only rendered on client side (SPA).
 
 On page load (refreshing the page):
-* The number in the store should be increased by 1 (see addNumber mutation in count.js).
+* The number in the store should be increased by 1, by calling the addNumber mutation in store/count.js.
 * Make sure the number is always 1. Both if you refresh the page on /universal and on /spa
 
 **For this challenge you are not allowed to use any external libraries.**
